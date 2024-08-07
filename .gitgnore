@@ -1,0 +1,10 @@
+# Ignorar arquivos e diretórios comuns
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+.venv/
+.ipynb_checkpoints
